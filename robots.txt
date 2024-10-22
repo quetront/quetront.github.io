@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://quetront.github.io/quetront.txt.gz
+Sitemap: https://quetront.github.io/app/quetront.txt.gz
+Sitemap: https://quetront.github.io/assets/quetront.txt.gz
+Sitemap: https://quetront.github.io/css/quetront.txt.gz
+Sitemap: https://quetront.github.io/includes/quetront.txt.gz
+Sitemap: https://quetront.github.io/item/quetront.txt.gz
+Sitemap: https://quetront.github.io/src/quetront.txt.gz
